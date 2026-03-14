@@ -1,0 +1,41 @@
+
+
+name: cosmiq_guru
+description: "A cosmic life operating system combining 7 divination systems into a unified daily guidance dashboard."
+publish_to: 'none'
+version: 2.1.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  provider:
+  sqflite:
+  shared_preferences:
+  path:
+  google_fonts:
+  flutter_animate:
+  table_calendar:
+  fl_chart:
+  flutter_local_notifications:
+  timezone:
+  screenshot:
+  share_plus:
+  package_info_plus:
+  uuid:
+  intl:
+  path_provider:
+  http:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints:
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
