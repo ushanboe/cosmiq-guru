@@ -1,0 +1,29 @@
+{
+  "slug": "cosmiq-guru",
+  "name": "CosmIQ Guru",
+  "tagline": "CosmIQ Guru - Your Cosmic Operating System. A mystical life OS combining 7 ancient divination systems.",
+  "tateru_built": true,
+  "tateru_version": null,
+  "build_date": "2026-03-14",
+  "platforms": [
+    "android"
+  ],
+  "tech_stack": [
+    "flutter",
+    "sqflite",
+    "provider",
+    "fl_chart",
+    "flutter_local_notifications"
+  ],
+  "features": [
+    "A cosmic life operating system combining 7 divination systems into a unified daily guidance dashboard"
+  ],
+  "on_device_ai": false,
+  "store_url": null,
+  "screenshots_dir": null,
+  "build_notes_files": [],
+  "blog_eligible": true,
+  "blog_notes": "Mystical life-OS combining 7 divination engines \u2014 first public Tateru-built release.",
+  "is_private_repo": false,
+  "github_created_at": "2026-03-14"
+}
